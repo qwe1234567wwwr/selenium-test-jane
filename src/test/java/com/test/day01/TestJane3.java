@@ -13,5 +13,9 @@ public class TestJane3 {
     public void test1(){
      System.out.println("ZHES");
  }
+   @Test
+    public void test2(){
+     System.out.println("ZHES23243");
+ }
 
 }
